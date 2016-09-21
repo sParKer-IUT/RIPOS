@@ -1,0 +1,17 @@
+Ooooowww!!! Here RIP presents u The HAMMER GAME...
+
+This is a game to prove your intelligence and speed.
+
+Keys:
+U only have to use the number keys (1-9).
+
+Goal:
+In this game there are 2 types of smiely white and black. They will come randomly in the
+grids. U have to press the key where the white Smiely rise up. It will add 10 points to 
+your score.But be CAREFULL about the black smilies. If u press the grid where black one
+rises it will deduce 20 points from your score. If u are failed to press the white smiley
+key your total life will be lost. And dont forget to press only one key at a time if u 
+prees more than once at a time u'll not be benifited
+
+Level:
+Speed will increase at every 50 score added.6
